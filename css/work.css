@@ -1,0 +1,14 @@
+.container{
+    background-image: url("images/rasm3.jpg");
+    border: 1px solid;
+    width: 1300px;
+    margin: 0 auto;
+    position: relative;
+}
+.box{
+    width: 1300px;
+    border: 1px solid;
+    margin: 0 auto;
+    position: static;
+    background-color: aqua;
+}

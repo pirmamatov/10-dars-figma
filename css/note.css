@@ -1,0 +1,113 @@
+.section-3{
+   
+    border: 1px solid;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  background-image: url(images/rasm3.jpg);
+}
+.section-3-1{
+    display: flex;
+    border: 1px solid;
+    width: 1000px;
+    position: absolute;
+    /* top: 1710px;
+    flex-direction: row; */
+    /* justify-content: center; */
+   
+}
+.s-3-1{
+    display: flex;
+    border: 1px solid;
+    width: 500px;
+    position: absolute;
+}
+.s-3-2{
+    display: flex;
+    border: 1px solid;
+    width: 500px;
+    position: absolute;
+    /* top: 1710px;
+    flex-direction: row; */
+    /* justify-content: center; */
+}
+.rasm3{
+    width: 1200px;
+    position: relative;
+}
+
+
+
+
+
+.section-2{
+    border: 1px solid;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.section-2-1{
+    border: 1px solid;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-direction: ;
+    position: relative;
+}
+/* .mm{
+    border: 1px solid;
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around; */
+    
+}
+.bir{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    background-color: #161A2B;
+    /* position: absolute; */
+}
+.ikki{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    background-color: #161A2B;
+    /* position: absolute; */
+}
+.uch{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    background-color: #161A2B;
+    /* position: absolute; */
+}
+.tort{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    background-color: #161A2B;
+    /* position: absolute; */
+}
+/* .section-2-2{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    background-color: #161A2B;
+    position: absolute;
+} */
+.mmm{
+    position: relative;
+    border: 1px solid;
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
